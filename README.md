@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=ChangHaeJung%20&animation=twinkling&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=ChangHaeJung%20&animation=twinkling&fontSize=60)
 
 <!--
 **jungchanghae/jungchanghae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
