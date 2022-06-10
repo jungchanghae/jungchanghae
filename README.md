@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - Machine Learning
 - Algorithm
 - Math
+
+[Our Tstory](https://talkingstones.tistory.com/)
