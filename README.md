@@ -22,7 +22,4 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning 
 - data science
 - Machine Learning
-- Algorithm
 - Math
-
-[Our Tstory](https://talkingstones.tistory.com/)
