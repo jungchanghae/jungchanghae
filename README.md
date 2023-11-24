@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 
 ## 🌱 I’m currently learning 
+- Meta Learning
+- NLP
+
 - data science
-- Machine Learning
 - Math
