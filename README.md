@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 
 - Data Science
 - Math
+
+## Other Link
+- [Notion](https://www.notion.so/Jung-Chang-Hae-1319ac7370138042a91aeeaf417bc97b)
